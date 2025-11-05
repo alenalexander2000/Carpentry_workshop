@@ -11,3 +11,7 @@ z + y + x
 z - x - y
 
 #curcial update! x is not an integer!
+
+#new idea
+
+new_data <- x - y
