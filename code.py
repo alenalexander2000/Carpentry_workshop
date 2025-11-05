@@ -1,6 +1,9 @@
 x = 5
 y = x + 2
 
-Note to Self be sure to update code
+#Note to Self be sure to update code
 
 import pandas as pd
+
+#try same analysis as in R
+x + y
