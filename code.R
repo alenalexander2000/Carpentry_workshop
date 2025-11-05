@@ -6,3 +6,8 @@ z <- y-x
 
 #idea for Analysis 
 z + y + x
+
+#new analysis
+z - x - y
+
+#curcial update! x is not an integer!
