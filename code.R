@@ -11,3 +11,6 @@ z + y + x
 z - x - y
 
 #curcial update! x is not an integer!
+
+#additonal content
+new <- x * 2
